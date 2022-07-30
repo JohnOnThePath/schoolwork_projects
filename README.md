@@ -1,2 +1,3 @@
 # schoolwork
-My projects while at BloomTech.
+This repository contains my Unit projects from BloomTech.
+These projects showcase my skills and knowledge.
